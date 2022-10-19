@@ -1,0 +1,17 @@
+body{
+    color: black;
+}
+
+.logo{
+    font-size: 20px;
+    margin: 55px;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto{
+    font-size: 20px;
+    display: flex;
+    margin: 75px;
+    
+}
